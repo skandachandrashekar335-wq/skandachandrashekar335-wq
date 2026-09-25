@@ -1,37 +1,31 @@
 # Skanda Chandrashekhar
 
-**BCA Student • Full-Stack Developer • AI/Automation Enthusiast**
+**BCA Student • Full-Stack Developer • AI / Automation**
 
-I build practical software products with a focus on **AI-assisted development, full-stack engineering, automation, and developer tooling**.
-
-Currently building and learning across **Python, FastAPI, Next.js, TypeScript, PostgreSQL, Linux, cloud deployment, and AI/agentic workflows**.
+I build practical, production-oriented software — full-stack applications, automation tools, and AI/computer-vision integrations — with real tests, real deployments, and documentation that reflects what actually ships.
 
 ---
 
 ## Featured Projects
 
 ### 🛡️ ExamGuard
-AI-powered examination management and identity-verification platform.
 
-- Role-based examination workflows
-- Firebase authentication + JWT sessions
-- Hall-ticket and exam management
-- Cloudinary-backed reference-face enrollment
-- UniFace-based webcam verification
-- Invigilator and attendance workflows
-- PostgreSQL + FastAPI + Next.js
-- Production deployment with Vercel, Railway and Neon
+**Production-deployed examination management and identity-verification platform.**
 
-**Live:** https://exam-guardian-management.vercel.app  
+ExamGuard runs examination operations end to end — students, registrations, seating, hall tickets, attendance — behind Firebase authentication and JWT-based role-based access control (Admin / Operator / Invigilator / Reviewer). Its core is a live identity-verification pipeline: invigilators capture a candidate's face from the browser, the backend authorizes the attempt and candidate enrollment, compares against a Cloudinary-stored reference face with UniFace, and persists auditable match evidence.
+
+- Role-based examination workflows from registration through attendance and audit
+- Live webcam verification loop with coded, recoverable failure states
+- Reference-face enrollment with Cloudinary storage; UniFace as the verification provider
+- 2,536 backend tests; TypeScript-clean Next.js frontend
+- Deployed on Vercel + Railway with Neon PostgreSQL
+
+**Live:** https://exam-guardian-management.vercel.app
 **Repository:** https://github.com/skandachandrashekar335-wq/ExamGuard
 
-### 🔬 UniFace for Face Recognition
-Experimental work around real-time face recognition and verification pipelines.
-
-**Repository:** https://github.com/skandachandrashekar335-wq/uniface-for-face-reco
-
 ### ⚙️ SUBSTIFLOW
-Current product/project work focused on automation and software workflows.
+
+Faculty timetable and automatic substitution manager — early development.
 
 **Repository:** https://github.com/skandachandrashekar335-wq/SUBSTIFLOW
 
@@ -39,34 +33,29 @@ Current product/project work focused on automation and software workflows.
 
 ## Tech Stack
 
-### Languages
-Python • TypeScript • JavaScript • Java • C • SQL
+**Languages:** Python • TypeScript • JavaScript • SQL
 
-### Frontend
-Next.js • React • Tailwind CSS
+**Frontend:** Next.js • React • Tailwind CSS
 
-### Backend
-FastAPI • Python • SQLAlchemy • Alembic
+**Backend:** FastAPI • SQLAlchemy • Alembic
 
-### Data
-PostgreSQL • Neon • SQL
+**Databases:** PostgreSQL • Neon
 
-### AI / Computer Vision
-UniFace • Face Verification • Computer Vision • AI-assisted Development
+**AI / Computer Vision:** UniFace • face verification & liveness • computer vision
 
-### Cloud & Tools
-Firebase • Cloudinary • Vercel • Railway • Git • GitHub • Linux • Ubuntu
+**Cloud / DevOps:** Firebase • Cloudinary • Vercel • Railway • Linux
+
+**Tools:** Git • GitHub • pytest • Playwright
 
 ---
 
-## What I'm Working On
+## Currently Building
 
-- Building production-oriented full-stack applications
-- AI-assisted and agentic software development
-- Computer vision and identity verification
-- Linux and cloud engineering
-- DevOps fundamentals and deployment workflows
-- Writing cleaner, testable and maintainable software
+- Production full-stack applications (ExamGuard)
+- AI-assisted and agentic software development workflows
+- Computer vision and identity verification pipelines
+- Automation tooling (SUBSTIFLOW)
+- Linux, cloud deployment, and DevOps fundamentals
 
 ---
 
@@ -81,7 +70,7 @@ Firebase • Cloudinary • Vercel • Railway • Git • GitHub • Linux • 
 
 ---
 
-## GitHub
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skandachandrashekar335-wq&show_icons=true&hide_border=true&rank_icon=github)
 
