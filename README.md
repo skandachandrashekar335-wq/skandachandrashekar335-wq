@@ -1,87 +1,99 @@
 # Skanda Chandrashekhar
 
-**BCA Student • Full-Stack Developer • AI / Automation**
+**BCA Student • Full-Stack Developer • AI & Automation**
 
-I build practical, production-oriented software — full-stack applications, automation tools, and AI/computer-vision integrations — with real tests, real deployments, and documentation that reflects what actually ships.
+I build practical software with a focus on **full-stack development, AI-assisted engineering, automation, and computer vision**. I like taking projects from idea → implementation → testing → deployment → documentation.
+
+**Currently looking for:** software development, AI/automation, or DevOps-oriented internship opportunities.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Work
 
 ### 🛡️ ExamGuard
-
 **Production-deployed examination management and identity-verification platform.**
 
-ExamGuard runs examination operations end to end — students, registrations, seating, hall tickets, attendance — behind Firebase authentication and JWT-based role-based access control (Admin / Operator / Invigilator / Reviewer). Its core is a live identity-verification pipeline: invigilators capture a candidate's face from the browser, the backend authorizes the attempt and candidate enrollment, compares against a Cloudinary-stored reference face with UniFace, and persists auditable match evidence.
+- Role-based examination workflows for Admin, Operator, Invigilator and Reviewer
+- Live browser-based identity verification with UniFace
+- Reference-face enrollment with protected server-side storage
+- Attendance, evidence and audit workflows
+- **2,554 backend tests passing**
+- Next.js + FastAPI + PostgreSQL + Firebase + Cloudinary
+- Deployed with Vercel + Railway + Neon
 
-- Role-based examination workflows from registration through attendance and audit
-- Live webcam verification loop with coded, recoverable failure states
-- Reference-face enrollment with Cloudinary storage; UniFace as the verification provider
-- 2,536 backend tests; TypeScript-clean Next.js frontend
-- Deployed on Vercel + Railway with Neon PostgreSQL
-
-**Live:** https://exam-guardian-management.vercel.app
-**Repository:** https://github.com/skandachandrashekar335-wq/ExamGuard
+**[Live Demo](https://exam-guardian-management.vercel.app) · [Repository](https://github.com/skandachandrashekar335-wq/ExamGuard)**
 
 ### ⚙️ SUBSTIFLOW
+Faculty timetable and automatic substitution management system.
 
-Faculty timetable and automatic substitution manager — early development.
+**[Repository](https://github.com/skandachandrashekar335-wq/SUBSTIFLOW)**
 
-**Repository:** https://github.com/skandachandrashekar335-wq/SUBSTIFLOW
+### 🖥️ SKANDA.EXE
+A cinematic developer portfolio exploring 3D web experiences, interactive interfaces and modern frontend engineering.
 
----
-
-## Tech Stack
-
-**Languages:** Python • TypeScript • JavaScript • SQL
-
-**Frontend:** Next.js • React • Tailwind CSS
-
-**Backend:** FastAPI • SQLAlchemy • Alembic
-
-**Databases:** PostgreSQL • Neon
-
-**AI / Computer Vision:** UniFace • face verification & liveness • computer vision
-
-**Cloud / DevOps:** Firebase • Cloudinary • Vercel • Railway • Linux
-
-**Tools:** Git • GitHub • pytest • Playwright
+**[Repository](https://github.com/skandachandrashekar335-wq/skanda-profile)**
 
 ---
 
-## Currently Building
+## 🧰 Tech Stack
 
-- Production full-stack applications (ExamGuard)
-- AI-assisted and agentic software development workflows
-- Computer vision and identity verification pipelines
-- Automation tooling (SUBSTIFLOW)
-- Linux, cloud deployment, and DevOps fundamentals
+**Languages**
+
+Python · TypeScript · JavaScript · SQL · Java
+
+**Frontend**
+
+Next.js · React · Tailwind CSS · Three.js
+
+**Backend**
+
+FastAPI · SQLAlchemy · Alembic
+
+**AI / Computer Vision**
+
+UniFace · Face Verification · Liveness Detection · AI-assisted development
+
+**Cloud / DevOps**
+
+Firebase · Cloudinary · Vercel · Railway · Neon · Linux
+
+**Engineering Tools**
+
+Git · GitHub · pytest · Playwright · REST APIs
 
 ---
 
-## Engineering Principles
+## 🔨 What I'm Building
 
-- **Build real things, not just tutorials**
-- **Automate repetitive work**
-- **Test before shipping**
-- **Keep secrets out of source control**
-- **Document decisions and architecture**
-- **Prefer simple systems that can be maintained**
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skandachandrashekar335-wq&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skandachandrashekar335-wq&layout=compact&hide_border=true)
+- Production-oriented full-stack applications
+- AI-assisted development workflows and automation
+- Computer-vision and identity-verification systems
+- Developer tooling and workflow automation
+- Linux, cloud deployment and DevOps fundamentals
 
 ---
 
-## Connect
+## 🧠 Engineering Approach
 
-- **LinkedIn:** https://linkedin.com/in/httpskanda-chandrashekhar
-- **Email:** skandachandrashekar335@gmail.com
+- Build projects that solve real problems
+- Keep authentication and authorization server-side
+- Test before calling something production-ready
+- Document architecture and engineering decisions
+- Keep secrets out of source control
+- Prefer maintainable systems over unnecessary complexity
+- Be honest about what is verified, blocked or still in progress
+
+---
+
+## 📌 GitHub
+
+I keep my public repositories focused on **real projects, reproducible engineering work, documentation, tests and deployment evidence** rather than artificial metrics or copied work.
+
+---
+
+## 📫 Contact
+
+**Email:** skandachandrashekhar@gmail.com
 
 ---
 
