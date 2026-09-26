@@ -93,7 +93,7 @@ I keep my public repositories focused on **real projects, reproducible engineeri
 
 ## 📫 Contact
 
-**Email:** skandachandrashekhar@gmail.com
+**Email:** skandachandrashekhar335@gmail.com
 
 ---
 
